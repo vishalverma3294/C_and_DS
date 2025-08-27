@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1668002866 source:d:\tutorial\c and ds\linked_list_prac\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1667919518 source:d:\tutorial\c and ds\linked_list_prac\circular_ll.c
+	<stdio.h>
+	<stdlib.h>
+
+1668002898 source:d:\tutorial\c and ds\linked_list_prac\doubly_ll.c
+	<stdio.h>
+	<stdlib.h>
+
